@@ -479,7 +479,7 @@
     }
     
     .qouteOne {
-        position: absolute;
+        
         width: 100%;
         height: auto;
         ;
@@ -862,7 +862,7 @@
             background-position: center;
         }
         .qouteOne {
-            position: absolute;
+          
             width: 100%;
             margin: 0 auto;
             float: left;
